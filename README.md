@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0B0F,50:12141B,100:134E4A&height=220&section=header&text=Shivam%20Kumar&fontSize=44&fontColor=5EEAD4&fontAlignY=38&animation=fadeIn&desc=Frontend%20Developer&descAlignY=60&descSize=18&descColor=A7ADB8" alt="Shivam Kumar" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub+Profile;Aspiring+Software+Engineer;Building+cool+projects" alt="Typing SVG" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.svg">
-  <img alt="Shivam Kumar" src="./assets/logo-light.svg" width="320">
+  <img alt="Shivam Kumar" src="./assets/logo-light.svg" width="100%">
 </picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub+Profile;Aspiring+Software+Engineer;Building+cool+projects" alt="Typing SVG" />
 
 <p>
   <a href="https://shivamkumar0097.netlify.app">
