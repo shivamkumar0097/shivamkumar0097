@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img alt="Shivam Kumar — Frontend Developer" src="./assets/profile-light.svg" width="100%">
-</picture>
+<img src="./assets/profile-split.svg" alt="Shivam Kumar — light and dark profile card" width="100%">
 
 </div>
 
