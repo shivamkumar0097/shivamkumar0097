@@ -29,9 +29,12 @@ BCA student and frontend developer from Dhanbad, India. I build clean, fast and
 responsive web experiences with React, JavaScript and modern CSS — with a strong focus
 on motion, detail and performance.
 
-- **Currently:** building private, browser-first web apps.
-- **Learning:** advanced React patterns, animation and performance.
-- **Open to:** frontend internships, freelance work and collaborations.
+## Now
+
+- Building private, browser-first web apps with React.
+- Learning advanced animation and performance patterns.
+- Exploring PDF tooling, e-commerce UX and developer tools.
+- Open to frontend internships, freelance work and collaborations.
 
 ## Tech Stack
 
@@ -61,6 +64,52 @@ on motion, detail and performance.
 | PDF Studio    | 16 private, in-browser PDF tools               | React, JavaScript, CSS | [Visit](https://pdfstudio-free.netlify.app)      |
 | Campus Store  | Campus essentials store with cart & checkout   | React, JavaScript, CSS | [Visit](https://campus-storee.netlify.app)       |
 
+## Project Previews
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://today-weathercheck.netlify.app">
+        <img src="https://raw.githubusercontent.com/shivamkumar0097/my-portfolio/master/public/projects/weather-check.png" alt="Weather Check preview" width="100%" />
+      </a>
+      <br />
+      <b>Weather Check</b>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://search-any-moviee.netlify.app">
+        <img src="https://raw.githubusercontent.com/shivamkumar0097/my-portfolio/master/public/projects/movie-search.png" alt="Movie Search preview" width="100%" />
+      </a>
+      <br />
+      <b>Movie Search</b>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://webcartofficial.netlify.app">
+        <img src="https://raw.githubusercontent.com/shivamkumar0097/my-portfolio/master/public/projects/webcart.png" alt="WebCart preview" width="100%" />
+      </a>
+      <br />
+      <b>WebCart</b>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://pdfstudio-free.netlify.app">
+        <img src="https://raw.githubusercontent.com/shivamkumar0097/my-portfolio/master/public/projects/pdf-studio.png" alt="PDF Studio preview" width="100%" />
+      </a>
+      <br />
+      <b>PDF Studio</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://campus-storee.netlify.app">
+        <img src="https://raw.githubusercontent.com/shivamkumar0097/my-portfolio/master/public/projects/campus-store.png" alt="Campus Store preview" width="62%" />
+      </a>
+      <br />
+      <b>Campus Store</b>
+    </td>
+  </tr>
+</table>
+
 ## GitHub Stats
 
 <p align="center">
@@ -70,6 +119,12 @@ on motion, detail and performance.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shivamkumar0097&hide_border=true&background=0A0B0F&stroke=1F2430&ring=5EEAD4&fire=818CF8&currStreakLabel=5EEAD4&sideLabels=A7ADB8&dates=6C7280" alt="GitHub streak" />
+</p>
+
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shivamkumar0097/shivamkumar0097/output/snake-dark.svg" alt="Contribution snake animation" />
 </p>
 
 <p align="center">
