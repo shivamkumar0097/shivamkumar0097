@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160" fill="none" role="img" aria-label="Shivam Kumar">
-  <rect x="1" y="1" width="718" height="158" rx="28" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2" />
-  <rect x="28" y="32" width="96" height="96" rx="24" fill="#F8FAFC" stroke="#99F6E4" stroke-width="2" />
-  <text x="76" y="95" text-anchor="middle" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38" font-weight="800" fill="#0F766E" letter-spacing="-1">SK</text>
-  <text x="152" y="84" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5" fill="#0A0B0F">Shivam <tspan fill="#0F766E">Kumar</tspan></text>
-  <text x="154" y="116" font-family="'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="4" fill="#64748B">FRONTEND DEVELOPER</text>
-</svg>

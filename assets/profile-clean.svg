@@ -17,6 +17,12 @@
       <stop offset="1" stop-color="#ffffff" stop-opacity="0.3" />
     </linearGradient>
 
+    <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0" />
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.85" />
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0" />
+    </linearGradient>
+
     <linearGradient id="edge-light" x1="110" y1="120" x2="1090" y2="400" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#f59e0b" />
       <stop offset="0.5" stop-color="#fde68a" />
@@ -106,6 +112,14 @@
     <rect x="110" y="120" width="980" height="280" rx="28" fill="none" stroke="url(#edge-light)" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="150 2322" stroke-dashoffset="0">
       <animate attributeName="stroke-dashoffset" from="0" to="-2472" dur="6s" repeatCount="indefinite" />
     </rect>
+  </g>
+
+  <g clip-path="url(#card-clip)">
+    <g transform="skewX(-18)">
+      <rect x="-240" y="40" width="190" height="440" fill="url(#shimmer)" opacity="0.5">
+        <animateTransform attributeName="transform" type="translate" values="-240 0;1500 0;1500 0" keyTimes="0;0.25;1" dur="3.5s" repeatCount="indefinite" />
+      </rect>
+    </g>
   </g>
 
   <line x1="700" y1="0" x2="500" y2="480" stroke="url(#ld-seam)" stroke-width="2" />
