@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 480" width="1200" height="480" role="img" aria-label="Shivam Kumar profile card shown in light and dark themes">
+  <title>Shivam Kumar — Clean Glass</title>
+  <defs>
+    <clipPath id="ld-light"><polygon points="0,0 700,0 500,480 0,480" /></clipPath>
+    <clipPath id="ld-dark"><polygon points="700,0 1200,0 1200,480 500,480" /></clipPath>
+    <clipPath id="card-clip"><rect x="110" y="120" width="980" height="280" rx="28" /></clipPath>
+
+    <linearGradient id="ld-seam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f59e0b" stop-opacity="0.15" />
+      <stop offset="0.5" stop-color="#f59e0b" stop-opacity="0.9" />
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0.15" />
+    </linearGradient>
+
+    <linearGradient id="glass-light" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.7" />
+      <stop offset="0.45" stop-color="#ffffff" stop-opacity="0.08" />
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.3" />
+    </linearGradient>
+
+    <filter id="blob" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="55" />
+    </filter>
+
+    <filter id="blob-sm" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="28" />
+    </filter>
+
+    <filter id="shadow-light" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#0f172a" flood-opacity="0.16" />
+    </filter>
+  </defs>
+
+  <g clip-path="url(#ld-light)">
+    <rect width="1200" height="480" fill="#ffffff" />
+    <text x="64" y="70" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#8c959f" letter-spacing="3.5">PREFERS-COLOR-SCHEME: LIGHT</text>
+
+    <circle cx="560" cy="66" r="12" fill="#f59e0b" />
+    <g stroke="#f59e0b" stroke-width="2.2" stroke-linecap="round">
+      <line x1="560" y1="42" x2="560" y2="49" />
+      <line x1="560" y1="83" x2="560" y2="90" />
+      <line x1="536" y1="66" x2="543" y2="66" />
+      <line x1="577" y1="66" x2="584" y2="66" />
+      <line x1="543" y1="49" x2="548" y2="54" />
+      <line x1="572" y1="78" x2="577" y2="83" />
+      <line x1="577" y1="49" x2="572" y2="54" />
+      <line x1="548" y1="78" x2="543" y2="83" />
+    </g>
+
+    <rect x="110" y="120" width="980" height="280" rx="28" fill="#ffffff" fill-opacity="0.55" stroke="#ffffff" stroke-opacity="0.9" stroke-width="1.6" filter="url(#shadow-light)" />
+
+    <g clip-path="url(#card-clip)">
+      <ellipse cx="250" cy="150" rx="260" ry="150" fill="#ffffff" opacity="0.55" filter="url(#blob)" />
+      <ellipse cx="990" cy="340" rx="310" ry="190" fill="#e2e8f0" opacity="0.32" filter="url(#blob)" />
+      <ellipse cx="560" cy="430" rx="360" ry="150" fill="#cbd5e1" opacity="0.16" filter="url(#blob)" />
+      <ellipse cx="930" cy="160" rx="150" ry="70" fill="#ffffff" opacity="0.45" filter="url(#blob-sm)" />
+    </g>
+
+    <rect x="110" y="120" width="980" height="280" rx="28" fill="url(#glass-light)" />
+    <path d="M150 140 Q 590 122 1040 146" stroke="#ffffff" stroke-opacity="0.8" stroke-width="2" fill="none" />
+    <rect x="112" y="122" width="976" height="276" rx="26" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1" />
+
+    <circle cx="190" cy="214" r="42" fill="#f8fafc" fill-opacity="0.9" stroke="#ffffff" stroke-opacity="0.9" stroke-width="2" />
+    <text x="190" y="224" text-anchor="middle" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="28" font-weight="700" fill="#0f172a">SK</text>
+    <text x="252" y="204" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="38" font-weight="700" fill="#1f2328">Shivam Kumar</text>
+    <text x="252" y="234" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="18" fill="#656d76">@shivamkumar0097 · frontend</text>
+    <text x="160" y="300" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="19" fill="#1f2328">Building fast, private web apps with React, JavaScript and modern CSS.</text>
+    <text x="160" y="327" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="19" fill="#1f2328">Sweating the last 10% — motion, spacing, speed and the tiny details.</text>
+
+    <rect x="160" y="352" width="120" height="32" rx="16" fill="#ffffff" fill-opacity="0.55" stroke="#ffffff" stroke-opacity="0.85" />
+    <text x="220" y="372" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" fill="#1f2328">5 PROJECTS</text>
+    <rect x="290" y="352" width="80" height="32" rx="16" fill="#ffffff" fill-opacity="0.55" stroke="#ffffff" stroke-opacity="0.85" />
+    <text x="330" y="372" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" fill="#1f2328">REACT</text>
+    <rect x="380" y="352" width="150" height="32" rx="16" fill="#ffffff" fill-opacity="0.4" stroke="#22c55e" stroke-opacity="0.55" />
+    <text x="455" y="372" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" fill="#15803d">OPEN TO WORK</text>
+  </g>
+
+  <g clip-path="url(#ld-dark)">
+    <rect width="1200" height="480" fill="#0d1117" />
+    <text x="1136" y="70" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#6e7681" letter-spacing="3.5">PREFERS-COLOR-SCHEME: DARK</text>
+
+    <path d="M760 50 A16 16 0 1 0 760 82 A13 13 0 1 1 760 50 Z" fill="#a78bfa" />
+    <circle cx="812" cy="48" r="1.8" fill="#a78bfa" />
+    <circle cx="798" cy="74" r="1.4" fill="#a78bfa" />
+    <circle cx="840" cy="86" r="1.6" fill="#a78bfa" />
+
+    <rect x="110" y="120" width="980" height="280" rx="28" fill="#0d1117" stroke="#21262d" stroke-width="1.5" />
+
+    <text x="160" y="300" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="19" fill="#e6edf3">Building fast, private web apps with React, JavaScript and modern CSS.</text>
+    <text x="160" y="327" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="19" fill="#e6edf3">Sweating the last 10% — motion, spacing, speed and the tiny details.</text>
+  </g>
+
+  <line x1="700" y1="0" x2="500" y2="480" stroke="url(#ld-seam)" stroke-width="2" />
+
+  <text x="64" y="462" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#8c959f" letter-spacing="3">LIGHT</text>
+  <text x="1136" y="462" text-anchor="end" font-family="ui-monospace, Menlo, Consolas, monospace" font-size="11" fill="#6e7681" letter-spacing="3">DARK</text>
+</svg>

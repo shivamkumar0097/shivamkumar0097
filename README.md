@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-glass-clear.svg" alt="Shivam Kumar — crystal clear liquid glass profile card" width="100%">
+<img src="./assets/profile-clean.svg" alt="Shivam Kumar — clean profile card" width="100%">
 
 </div>
 
