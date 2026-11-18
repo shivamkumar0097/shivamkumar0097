@@ -67,7 +67,7 @@
     <text x="160" y="327" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="19" fill="#1f2328">Sweating the last 10% — motion, spacing, speed and the tiny details.</text>
 
     <rect x="160" y="352" width="120" height="32" rx="16" fill="#ffffff" fill-opacity="0.55" stroke="#ffffff" stroke-opacity="0.85" />
-    <text x="220" y="372" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" fill="#1f2328">5 PROJECTS</text>
+    <text x="220" y="372" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" fill="#1f2328">8 PROJECTS</text>
     <rect x="290" y="352" width="80" height="32" rx="16" fill="#ffffff" fill-opacity="0.55" stroke="#ffffff" stroke-opacity="0.85" />
     <text x="330" y="372" text-anchor="middle" font-family="ui-monospace, monospace" font-size="13" fill="#1f2328">REACT</text>
     <rect x="380" y="352" width="150" height="32" rx="16" fill="#ffffff" fill-opacity="0.4" stroke="#22c55e" stroke-opacity="0.55" />
