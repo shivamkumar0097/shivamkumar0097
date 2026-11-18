@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-split.svg" alt="Shivam Kumar — light and dark profile card" width="100%">
+<img src="./assets/profile-card.svg" alt="Shivam Kumar — light and dark profile card" width="100%">
 
 </div>
 
