@@ -4,6 +4,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=400&lines=Welcome+to+my+GitHub+Profile;Aspiring+Software+Engineer;Building+cool+projects" alt="Typing SVG" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/logo-light.svg">
+  <img alt="Shivam Kumar" src="./assets/logo-light.svg" width="320">
+</picture>
+
 <p>
   <a href="https://shivamkumar0097.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-5EEAD4?style=for-the-badge&logo=netlify&logoColor=0A0B0F" alt="Portfolio" />
@@ -54,10 +60,24 @@ on motion, detail and performance.
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
 </p>
 
+## GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shivamkumar0097&show_icons=true&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=shivamkumar0097&show_icons=true&theme=default&hide_border=true">
+    <img alt="GitHub stats for shivamkumar0097" src="https://github-readme-stats.vercel.app/api?username=shivamkumar0097&show_icons=true&hide_border=true">
+  </picture>
+</p>
+
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shivamkumar0097/shivamkumar0097/output/snake-dark.svg" alt="Contribution snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivamkumar0097/shivamkumar0097/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivamkumar0097/shivamkumar0097/output/snake.svg">
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/shivamkumar0097/shivamkumar0097/output/snake.svg">
+  </picture>
 </p>
 
 <p align="center">
